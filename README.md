@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends for a successful play.
-![theater](path/to/theater.png)
+![theater](https://user-images.githubusercontent.com/103701561/166604077-54e74885-71a2-49cf-b782-f8564964a710.png)
 
 #Purpose
 * To use Microsoft Excel to analize data and prepare summary tables, charts and graphs so the client can make an informed decision .
@@ -14,7 +14,7 @@ Performing analysis on Kickstarter data to uncover trends for a successful play.
 * Utilizing VLOOKUP to streamline only the data we want to see
 * Using the Average and Median function to determine the outcomes from succcessful and failed campaigns 
 
-![ParentCategoryOutcomes](path/to/ParentCategoryOutcomes.png)
+![ParentCategoryOutcomes](https://user-images.githubusercontent.com/103701561/166604180-eee35f47-a45a-499b-a3c4-30129a039474.png)
 
 
-![OutcomesBasedOnLaunchDate](path/to/OutcomesBasedOnLaunchdate.png)
+![OutcomesBasedOnLaunchDate](https://user-images.githubusercontent.com/103701561/166604204-229c1175-1147-43a4-9912-feb5b00e418f.png)

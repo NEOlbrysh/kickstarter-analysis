@@ -17,9 +17,7 @@
 
 ![parentcategory3 0](https://user-images.githubusercontent.com/103701561/166609256-d14d58d2-0717-4e85-bfc6-4052a40cb976.png)
 
-As we can see in the above graph food, games, music, and publishing all have high failure rates with litte success, journalism being the only one that is canceled entirely, with technology coming in second.
-
-Film & video, theater, and music being the most successful of the category.
+As we can see in the above graph food, games, music, and publishing all have high failure rates with litte success, journalism being the only one that is canceled entirely, with technology coming in second. Film & video, theater, and music being the most successful of the category.
 
 
 ![countofoutcomes2 0](https://user-images.githubusercontent.com/103701561/166609272-5a7630da-3d51-466c-a6b2-a4e73afe52d7.png)

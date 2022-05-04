@@ -20,6 +20,7 @@
 ![OutcomesBasedOnLaunchDate](https://user-images.githubusercontent.com/103701561/166604204-229c1175-1147-43a4-9912-feb5b00e418f.png)
 
 
+![sumofaverage](https://user-images.githubusercontent.com/103701561/166608327-da578299-a4ce-4bc0-b8d7-a74e5c627e33.png)
 
 # Conclusion and analysis
-As we can see in the above graphs, theater has the highest success and fail rate amoungst the other categories. This is partly due to the time of year that production starts, we can see that spring time, particularly May is significantly more successful than any of the other months. The second reason campaigns are successful are due to backers and more importantly donations. 
+As we can see in the above graphs, theater has the highest success and fail rate amoungst the other categories. This is partly due to the time of year that production starts, we can see that spring time, particularly May is significantly more successful than any of the other months. The second reason campaigns are successful are due to backers and more importantly donations, the more backers a production has the more doantions are to be expected.

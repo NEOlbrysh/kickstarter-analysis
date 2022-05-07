@@ -22,32 +22,41 @@ Louise is an up and coming playwright that wants to start a crowdfund me and her
 
 
 
-As we can see in Figure 1) food, games, music, and publishing all have high failure rates with litte success, journalism being the only one that is canceled entirely, with technology coming in second. Film & video, theater, and music being the most successful of the category, while still having failures this is when we take a deeper look into what the reasons could be, time of the year could not be right, there could be a lack of support for the project not enough people interested in the campaign, or the expectations on how much money is required to start and finish the campign could have a negative effect. These options are only a few instance where failure could occur.
+As we can see in Figure 1 food, games, music, and publishing all have high failure rates with litte success, journalism being the only one that is canceled entirely, with technology coming in second. Film & video, theater, and music being the most successful of the category, while still having failures this is when we take a deeper look into what the reasons could be, time of the year could not be right, there could be a lack of support for the project not enough people interested in the campaign, or the expectations on how much money is required to start and finish the campign could have a negative effect. These options are only a few instance where failure could occur.
 
 
 
-Figure 1)
+Figure 1
 ![parentcategory3 0](https://user-images.githubusercontent.com/103701561/166609256-d14d58d2-0717-4e85-bfc6-4052a40cb976.png)
 
 
 
-Looking at Figure 2) it is more than evident that the most sucessful month is May, this could be due to weather as it is warming up and people are wanting to venture outside of their home. Spring and early summer are when a majority of the population take time off of work and school, this can lead to leasure activities such as attending a play.  We can see the decline in the months October through December holidays can be attributed to this, it is possible that disposable income is tied up in traveling, giftgiving, and parties, more time is spent with families and friends. The weather depending on the location can have an affect on wheather the population would like to stay indoors and venture out less. 
+Looking at Figure 2 it is more than evident that the most sucessful month is May, this could be due to weather as it is warming up and people are wanting to venture outside of their home. Spring and early summer are when a majority of the population take time off of work and school, this can lead to leasure activities such as attending a play.  We can see the decline in the months October through December holidays can be attributed to this, it is possible that disposable income is tied up in traveling, giftgiving, and parties, more time is spent with families and friends. The weather depending on the location can have an affect on wheather the population would like to stay indoors and venture out less. 
 
 
 
-Figure 2)
+Figure 2
 ![countofoutcomes2 0](https://user-images.githubusercontent.com/103701561/166609272-5a7630da-3d51-466c-a6b2-a4e73afe52d7.png)
 
 
 
-From the information in Figure 3) it is essential to find the appropriate people that could be interested in the project that you are wanting to start, it is evident that the more backers a campaign has directly correlates to the amount of donations recieved. Also, the more backers there are the less donation a single person needs to give while still raising an appropriate amount of funds.  Finding the right amount of backers that are willing to help with the campign is essential.
+From the information in Figure 3 it is essential to find the appropriate people that could be interested in the project that you are wanting to start, it is evident that the more backers a campaign has directly correlates to the amount of donations recieved. Also, the more backers there are the less donation a single person needs to give while still raising an appropriate amount of funds.  Finding the right amount of backers that are willing to help with the campign is essential.
 
 
 
-Figure 3)
+Figure 3
 ![sumofaverage](https://user-images.githubusercontent.com/103701561/166608327-da578299-a4ce-4bc0-b8d7-a74e5c627e33.png)
+
+
+
+
+# Limitations
+The amount of information and data on campaigns that does not pertain to Louise's theater goal is extensive and unnecessary. Having this amount of information and data that only involves theaters would be beneficial and we could take a more indepth look at the how's and why's oe campaign is successfull and others are not. 
+
 
 
 
 # Conclusion and Analysis
 As we can see in the above graphs, theater has the highest success and fail rate amoungst the other categories. This is partly due to the time of year that production starts, we can see that spring time, particularly May is significantly more successful than any of the other months. The second reason campaigns are successful are due to backers and more importantly donations, the more backers a production has the more doantions are to be expected.
+
+
